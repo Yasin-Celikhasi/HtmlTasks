@@ -1,15 +1,15 @@
-# Kodluyoruz - *HTML* eğitimi içerisinde yer alan **Odevler**
+# Kodluyoruz - *HTML* eğitimi içerisinde yaptığım **Odevler**
 
 
-1. Odev-1
-![Odev-1] (img/html-odev-1.png)
-
----
-
-2. Odev-2
-![Odev-2] (img/html-odev-2.png)
+## Odev-1
+![](img/html-odev-1.PNG)
 
 ---
 
-3. Odev-3
-![Odev-3] (img/html-odev-3.png)
+## Odev-2
+![](img/html-odev-2.PNG)
+
+---
+
+## Odev-3
+![](img/html-odev-3.PNG)
